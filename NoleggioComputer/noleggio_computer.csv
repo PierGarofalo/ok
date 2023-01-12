@@ -1,0 +1,7 @@
+NumeroSeriale;Modello;CPU;SchedaGrafica;Noleggiato;doppiaCamera;touchId;riconoscimentoVocale;prezzo
+1;base;ciao;ciao;true;null;null;null;8
+2;medio;hello;hello;true;yes;null;null;15
+3;avanzato;salut;salut;true;yes;yes;yes;20
+4;base;ciao;ciao;false;true;null;null;0
+5;medio;hello;hello;false;true;yes;null;0
+6;avanzato;salut;salut;false;true;yes;yes;0
